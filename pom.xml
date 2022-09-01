@@ -22,7 +22,7 @@
         <jsap.version>2.1</jsap.version>
         <junit.version>4.12</junit.version>
         <itext.version>7.1.5</itext.version>
-        <jsoup.version>1.11.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <logback.version>1.2.3</logback.version>
         <maven.jar.version>2.6</maven.jar.version>
         <jackson.version>2.9.2</jackson.version>
